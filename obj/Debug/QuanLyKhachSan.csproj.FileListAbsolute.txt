@@ -1,0 +1,8 @@
+D:\SQL\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\SQL\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\SQL\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\SQL\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyKhachSan.resources
+D:\SQL\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\SQL\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\SQL\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\SQL\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
